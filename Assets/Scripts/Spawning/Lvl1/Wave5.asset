@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05f1c0f86b17e554bbb8ae687d07a642, type: 3}
+  m_Name: Wave5
+  m_EditorClassIdentifier: 
+  diffcultyLevel: 0
+  enemyNumber: 3
+  arrEnemy:
+  - {fileID: 1771089202693632, guid: 4ac538a1db8be114c8c8201a607defda, type: 2}
+  - {fileID: 1184776338630706, guid: 1c74fade5b3eb0248813f641814ff73f, type: 2}
+  - {fileID: 1771089202693632, guid: 4ac538a1db8be114c8c8201a607defda, type: 2}
+  arrSpawnersOrder: 030000000000000001000000
+  timeBtwSpawn: 2

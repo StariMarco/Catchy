@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Bullet
+  - Enemy
+  - Drop
+  - TransitionTriggers
+  - SpawnerProtectorBar
+  - SpawnerProtectorPillar
+  - GoldenBar
+  - MouseCursor
+  - TutorialRound
+  - Enemy_All
+  - Boss
+  - Helper
+  - WallRock
+  - DroppedStone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BG
+  - DiamondBar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Gate
+    uniqueID: 3507145959
+    locked: 0
+  - name: BloodStains
+    uniqueID: 3856984123
+    locked: 0
+  - name: Spawners
+    uniqueID: 3294087507
+    locked: 0
+  - name: PlayerBody
+    uniqueID: 940903633
+    locked: 0
+  - name: PlayerBloodStains
+    uniqueID: 681549373
+    locked: 0
+  - name: SpawnerProtector
+    uniqueID: 1561212063
+    locked: 0
+  - name: AmbientRocks
+    uniqueID: 3683548835
+    locked: 0
+  - name: Walls
+    uniqueID: 202318787
+    locked: 0
+  - name: Drops
+    uniqueID: 477045117
+    locked: 0
+  - name: Bullets
+    uniqueID: 3999572543
+    locked: 0
+  - name: PlayerEyes
+    uniqueID: 2394512975
+    locked: 0
+  - name: PlayerBullets
+    uniqueID: 2922636219
+    locked: 0
+  - name: Enemy2
+    uniqueID: 3328237495
+    locked: 0
+  - name: Enemy
+    uniqueID: 955039655
+    locked: 0
+  - name: Boss
+    uniqueID: 102572877
+    locked: 0
+  - name: HealthBar
+    uniqueID: 2773056475
+    locked: 0
+  - name: Helper
+    uniqueID: 359628619
+    locked: 0
+  - name: TransitionBars
+    uniqueID: 2249434509
+    locked: 0
+  - name: Transition
+    uniqueID: 1501081221
+    locked: 0
+  - name: Decorations
+    uniqueID: 354989839
+    locked: 0
+  - name: FlashEffect
+    uniqueID: 1726962379
+    locked: 0
+  - name: Menus
+    uniqueID: 3763791725
+    locked: 0
